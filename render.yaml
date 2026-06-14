@@ -1,0 +1,11 @@
+# One-click deploy of the REST API to Render (https://render.com — free tier).
+# Connect this GitHub repo at dashboard.render.com → New → Blueprint, and Render reads this file.
+# The Streamlit app deploys separately on Streamlit Community Cloud (see README).
+services:
+  - type: web
+    name: zmi-api
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.api:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /docs

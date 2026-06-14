@@ -1,0 +1,857 @@
+key,year,vlow,low,mod,above,total
+alameda,2018,1,0,0,180,181
+alameda,2019,31,28,24,598,681
+alameda,2020,93,61,2,142,298
+alameda,2021,24,15,30,536,605
+alameda,2022,64,17,23,139,243
+alameda,2023,84,35,75,902,1096
+alameda,2024,177,23,28,127,355
+alameda,2025,17,15,15,18,65
+albany,2018,0,0,17,0,17
+albany,2019,0,0,24,7,31
+albany,2020,0,1,24,11,36
+albany,2021,0,0,19,0,19
+albany,2022,32,29,36,0,97
+albany,2023,1,3,7,0,11
+albany,2024,4,6,2,0,12
+albany,2025,23,8,7,190,228
+american canyon,2018,8,11,0,143,162
+american canyon,2019,1,0,0,0,1
+american canyon,2020,2,3,0,0,5
+american canyon,2021,132,75,2,144,353
+american canyon,2022,152,105,3,88,348
+american canyon,2023,5,0,2,78,85
+american canyon,2024,179,107,3,259,548
+american canyon,2025,8,4,0,150,162
+antioch,2018,1,1,0,119,121
+antioch,2019,2,0,12,279,293
+antioch,2020,105,299,2,308,714
+antioch,2021,12,19,1,564,596
+antioch,2022,0,0,0,365,365
+antioch,2023,11,11,11,351,384
+antioch,2024,14,14,13,315,356
+antioch,2025,15,15,14,131,175
+atherton,2018,3,2,1,28,34
+atherton,2019,8,2,0,19,29
+atherton,2020,20,5,9,25,59
+atherton,2021,18,5,9,30,62
+atherton,2022,13,0,2,36,51
+atherton,2023,11,8,1,91,111
+atherton,2024,45,9,8,47,109
+atherton,2025,9,3,6,42,60
+belmont,2018,0,0,9,6,15
+belmont,2019,0,0,12,0,12
+belmont,2020,22,44,11,9,86
+belmont,2021,0,38,12,218,268
+belmont,2022,0,65,41,385,491
+belmont,2023,6,6,7,6,25
+belmont,2024,115,67,12,3,197
+belmont,2025,28,25,6,7,66
+belvedere,2019,0,0,1,1,2
+belvedere,2020,0,0,2,0,2
+belvedere,2021,0,0,2,0,2
+belvedere,2022,0,0,5,0,5
+belvedere,2023,0,0,11,1,12
+belvedere,2024,1,0,1,2,4
+belvedere,2025,18,4,4,2,28
+benicia,2018,0,0,3,1,4
+benicia,2019,0,0,3,1,4
+benicia,2020,0,0,5,3,8
+benicia,2021,0,0,9,2,11
+benicia,2022,0,0,5,0,5
+benicia,2023,0,0,1,10,11
+benicia,2024,0,0,0,17,17
+benicia,2025,4,2,0,1,7
+berkeley,2018,4,0,0,376,380
+berkeley,2019,13,0,0,350,363
+berkeley,2020,85,101,0,580,766
+berkeley,2021,56,0,0,450,506
+berkeley,2022,88,58,0,741,887
+berkeley,2023,64,53,29,286,432
+berkeley,2024,81,35,30,588,734
+berkeley,2025,84,126,46,207,463
+brentwood,2018,0,0,22,323,345
+brentwood,2019,0,5,28,661,694
+brentwood,2020,1,6,42,935,984
+brentwood,2021,1,1,16,724,742
+brentwood,2023,6,9,25,292,332
+brentwood,2024,7,6,7,35,55
+brentwood,2025,7,7,12,97,123
+brisbane,2018,0,0,5,1,6
+brisbane,2019,0,0,11,7,18
+brisbane,2020,0,0,2,1,3
+brisbane,2021,0,0,7,5,12
+brisbane,2022,2,2,2,5,11
+brisbane,2023,2,1,2,1,6
+brisbane,2024,3,1,1,1,6
+brisbane,2025,4,2,1,2,9
+burlingame,2018,0,0,29,271,300
+burlingame,2019,0,0,0,10,10
+burlingame,2020,82,35,28,142,287
+burlingame,2021,0,38,15,421,474
+burlingame,2022,0,43,0,308,351
+burlingame,2023,106,49,21,823,999
+burlingame,2024,3,13,21,15,52
+burlingame,2025,12,17,12,25,66
+calistoga,2018,0,0,4,6,10
+calistoga,2019,0,1,2,10,13
+calistoga,2020,0,6,0,3,9
+calistoga,2021,0,0,0,15,15
+calistoga,2022,0,12,68,4,84
+calistoga,2023,0,0,0,8,8
+calistoga,2024,0,2,0,24,26
+calistoga,2025,2,0,0,24,26
+campbell,2018,2,2,3,46,53
+campbell,2019,2,2,3,82,89
+campbell,2020,2,2,3,139,146
+campbell,2021,4,2,3,207,216
+campbell,2022,4,2,3,275,284
+campbell,2023,13,11,13,381,418
+campbell,2024,34,32,34,411,511
+campbell,2025,48,47,48,477,620
+clayton,2020,0,3,0,0,3
+clayton,2021,0,2,0,0,2
+clayton,2022,0,3,4,16,23
+clayton,2023,0,0,0,0,0
+clayton,2024,2,2,1,6,11
+cloverdale,2018,0,0,0,14,14
+cloverdale,2019,1,2,2,24,29
+cloverdale,2020,0,0,0,3,3
+cloverdale,2021,18,4,0,10,32
+cloverdale,2022,75,25,3,4,107
+cloverdale,2023,0,24,0,2,26
+cloverdale,2024,54,20,0,27,101
+cloverdale,2025,0,0,3,0,3
+colma,2018,31,34,0,4,69
+colma,2019,31,34,0,1,66
+colma,2025,0,1,0,0,1
+concord,2018,0,0,0,24,24
+concord,2019,0,0,1,55,56
+concord,2020,0,0,4,282,286
+concord,2021,0,0,0,43,43
+concord,2022,53,8,0,83,144
+concord,2023,74,166,15,81,336
+concord,2024,37,25,27,63,152
+concord,2025,65,154,19,15,253
+corte madera,2018,5,0,2,0,7
+corte madera,2019,3,0,1,0,4
+corte madera,2020,2,2,0,0,4
+corte madera,2021,21,9,12,16,58
+corte madera,2022,5,5,6,1,17
+corte madera,2023,2,2,2,0,6
+corte madera,2024,5,4,4,2,15
+corte madera,2025,2,3,1,1,7
+cotati,2018,0,0,2,0,2
+cotati,2019,1,3,0,3,7
+cotati,2020,2,1,1,16,20
+cotati,2021,4,2,8,22,36
+cotati,2022,2,0,1,4,7
+cotati,2023,1,0,0,3,4
+cotati,2024,1,2,1,6,10
+cotati,2025,1,2,0,1,4
+cupertino,2018,19,0,15,2,36
+cupertino,2019,0,0,15,24,39
+cupertino,2020,0,0,19,1,20
+cupertino,2021,29,19,41,1,90
+cupertino,2022,0,0,24,104,128
+cupertino,2023,10,10,10,38,68
+cupertino,2024,14,13,13,40,80
+cupertino,2025,17,18,19,57,111
+daly city,2018,0,37,40,22,99
+daly city,2019,0,35,36,81,152
+daly city,2020,0,18,47,215,280
+daly city,2021,147,0,33,82,262
+daly city,2022,0,6,23,81,110
+daly city,2023,0,0,21,23,44
+daly city,2024,0,0,0,28,28
+daly city,2025,100,50,17,24,191
+danville,2018,10,5,11,188,214
+danville,2019,10,17,12,200,239
+danville,2020,0,15,7,20,42
+danville,2021,0,29,10,11,50
+danville,2022,0,25,12,19,56
+danville,2023,4,4,11,71,90
+danville,2024,0,0,0,70,70
+danville,2025,22,22,0,82,126
+dixon,2019,0,0,71,44,115
+dixon,2020,0,0,15,159,174
+dixon,2021,27,16,0,347,390
+dixon,2022,0,0,0,250,250
+dixon,2023,16,56,0,337,409
+dixon,2024,23,84,1,175,283
+dixon,2025,0,0,0,235,235
+dublin,2018,0,0,17,770,787
+dublin,2019,0,0,8,233,241
+dublin,2020,0,0,27,473,500
+dublin,2021,0,0,13,764,777
+dublin,2022,0,0,7,346,353
+dublin,2023,0,0,0,386,386
+dublin,2024,0,1,0,89,90
+dublin,2025,112,40,19,404,575
+east palo alto,2018,0,0,0,0,0
+east palo alto,2019,4,2,2,1,9
+east palo alto,2020,94,3,2,4,103
+east palo alto,2021,15,6,6,5,32
+east palo alto,2022,11,7,7,4,29
+east palo alto,2023,126,8,6,9,149
+east palo alto,2024,20,12,12,5,49
+east palo alto,2025,66,89,10,11,176
+el cerrito,2018,0,0,0,18,18
+el cerrito,2019,0,0,0,136,136
+el cerrito,2020,0,0,0,171,171
+el cerrito,2021,0,0,0,56,56
+el cerrito,2022,0,0,0,48,48
+el cerrito,2023,0,0,0,50,50
+el cerrito,2024,66,31,7,7,111
+el cerrito,2025,39,38,4,5,86
+emeryville,2018,1,3,4,70,78
+emeryville,2019,0,0,0,0,0
+emeryville,2020,20,30,35,418,503
+emeryville,2021,8,0,0,244,252
+emeryville,2022,10,12,11,192,225
+emeryville,2023,71,54,24,467,616
+emeryville,2024,54,37,1,35,127
+emeryville,2025,54,39,4,14,111
+fairfax,2018,12,55,1,0,68
+fairfax,2019,0,6,2,1,9
+fairfax,2020,19,42,14,4,79
+fairfax,2021,0,4,19,1,24
+fairfax,2022,0,6,6,8,20
+fairfax,2023,2,2,3,0,7
+fairfax,2024,2,6,0,1,9
+fairfax,2025,0,14,0,1,15
+fairfield,2018,0,0,0,312,312
+fairfield,2019,0,0,2,352,354
+fairfield,2020,94,95,2,670,861
+fairfield,2021,58,14,13,360,445
+fairfield,2022,0,0,57,309,366
+fairfield,2023,36,139,14,343,532
+fairfield,2024,4,4,4,290,302
+fairfield,2025,4,3,3,237,247
+foster city,2018,0,0,0,0,0
+foster city,2019,2,0,0,20,22
+foster city,2020,4,2,10,18,34
+foster city,2021,1,2,0,42,45
+foster city,2022,4,0,1,13,18
+foster city,2023,4,1,2,16,23
+foster city,2024,5,0,5,3,13
+foster city,2025,5,21,2,0,28
+fremont,2018,34,68,19,1742,1863
+fremont,2019,78,52,2,955,1087
+fremont,2020,51,8,1,251,311
+fremont,2021,140,21,0,700,861
+fremont,2022,111,119,68,835,1133
+fremont,2023,252,202,25,179,658
+fremont,2024,40,40,40,74,194
+fremont,2025,53,56,55,385,549
+gilroy,2018,39,38,32,112,221
+gilroy,2019,4,0,39,153,196
+gilroy,2020,79,80,39,72,270
+gilroy,2021,44,83,20,128,275
+gilroy,2022,25,79,10,124,238
+gilroy,2023,15,15,15,174,219
+gilroy,2024,12,11,11,143,177
+gilroy,2025,9,9,9,10,37
+half moon bay,2018,0,0,3,10,13
+half moon bay,2019,0,0,12,7,19
+half moon bay,2020,0,0,10,15,25
+half moon bay,2021,0,1,26,3,30
+half moon bay,2022,0,1,43,20,64
+half moon bay,2023,4,14,6,9,33
+half moon bay,2024,100,3,3,6,112
+half moon bay,2025,4,5,3,13,25
+hayward,2018,0,0,0,145,145
+hayward,2019,0,20,27,1029,1076
+hayward,2020,25,114,45,269,453
+hayward,2021,103,21,62,647,833
+hayward,2022,36,31,102,728,897
+hayward,2023,102,147,111,142,502
+hayward,2024,110,11,56,125,302
+hayward,2025,17,17,17,24,75
+healdsburg,2018,0,0,11,41,52
+healdsburg,2019,0,1,18,12,31
+healdsburg,2020,0,3,31,27,61
+healdsburg,2021,0,0,1,0,1
+healdsburg,2022,44,0,0,24,68
+healdsburg,2023,54,39,7,241,341
+healdsburg,2024,33,59,7,291,390
+healdsburg,2025,104,49,35,29,217
+hercules,2018,0,0,0,227,227
+hercules,2019,0,15,217,17,249
+hercules,2020,0,0,0,4,4
+hercules,2021,0,0,0,4,4
+hercules,2022,0,0,0,3,3
+hercules,2023,0,0,0,3,3
+hercules,2024,0,1,0,15,16
+hercules,2025,1,1,1,1,4
+hillsborough,2018,6,4,3,3,16
+hillsborough,2020,9,7,6,3,25
+hillsborough,2021,24,18,13,9,64
+hillsborough,2022,33,22,17,13,85
+hillsborough,2023,15,10,10,16,51
+hillsborough,2024,20,9,10,13,52
+lafayette,2018,0,0,2,29,31
+lafayette,2019,0,3,14,71,88
+lafayette,2020,5,0,22,56,83
+lafayette,2021,0,0,21,2,23
+lafayette,2022,2,0,39,29,70
+lafayette,2023,2,0,35,41,78
+lafayette,2024,9,2,10,35,56
+lafayette,2025,21,15,25,59,120
+larkspur,2018,1,0,0,3,4
+larkspur,2019,2,1,0,1,4
+larkspur,2020,1,0,0,0,1
+larkspur,2021,1,0,0,1,2
+larkspur,2022,44,3,5,0,52
+larkspur,2023,4,8,6,0,18
+larkspur,2024,4,8,7,2,21
+larkspur,2025,3,3,3,1,10
+livermore,2018,34,10,26,235,305
+livermore,2019,42,1,38,260,341
+livermore,2020,0,3,40,124,167
+livermore,2021,44,0,60,25,129
+livermore,2022,68,0,105,39,212
+livermore,2023,24,0,113,43,180
+livermore,2024,62,14,147,294,517
+livermore,2025,127,45,238,440,850
+los altos,2018,0,10,1,60,71
+los altos,2019,0,0,0,139,139
+los altos,2020,0,0,0,24,24
+los altos,2021,3,21,37,58,119
+los altos,2022,3,29,24,6,62
+los altos,2023,6,33,56,19,114
+los altos,2024,3,48,31,163,245
+los altos,2025,90,61,30,66,247
+los altos hills,2018,3,1,1,23,28
+los altos hills,2019,8,3,2,34,47
+los altos hills,2020,23,9,6,49,87
+los altos hills,2021,35,21,19,74,149
+los altos hills,2022,44,30,29,88,191
+los altos hills,2023,0,0,23,7,30
+los altos hills,2024,9,12,24,3,48
+los altos hills,2025,10,7,11,9,37
+los gatos,2018,0,0,18,7,25
+los gatos,2019,0,0,28,3,31
+los gatos,2020,49,1,51,80,181
+los gatos,2021,0,0,40,185,225
+los gatos,2022,0,1,67,181,249
+los gatos,2023,87,33,48,292,460
+los gatos,2024,40,30,34,142,246
+los gatos,2025,43,42,33,126,244
+martinez,2018,0,0,0,6,6
+martinez,2019,0,0,0,5,5
+martinez,2020,0,0,0,18,18
+martinez,2021,0,0,0,65,65
+martinez,2022,0,0,0,42,42
+martinez,2023,9,10,10,93,122
+martinez,2024,8,9,10,38,65
+martinez,2025,21,7,11,14,53
+menlo park,2018,9,6,3,26,44
+menlo park,2019,1,16,7,172,196
+menlo park,2020,0,26,0,230,256
+menlo park,2021,69,11,11,5,96
+menlo park,2022,27,53,81,676,837
+menlo park,2023,38,65,88,678,869
+menlo park,2024,92,39,32,38,201
+menlo park,2025,96,51,41,84,272
+mill valley,2018,5,3,3,4,15
+mill valley,2019,5,6,4,11,26
+mill valley,2020,6,6,3,1,16
+mill valley,2021,10,10,10,15,45
+mill valley,2022,6,7,3,1,17
+mill valley,2023,9,8,9,3,29
+mill valley,2024,8,9,8,2,27
+mill valley,2025,3,3,3,4,13
+millbrae,2018,0,0,0,0,0
+millbrae,2019,5,5,4,4,18
+millbrae,2020,2,1,22,303,328
+millbrae,2021,30,60,6,2,98
+millbrae,2022,4,4,4,2,14
+millbrae,2023,4,4,4,1,13
+millbrae,2024,4,30,4,255,293
+millbrae,2025,10,66,19,2,97
+milpitas,2018,10,0,0,1776,1786
+milpitas,2019,0,0,0,141,141
+milpitas,2020,132,0,0,283,415
+milpitas,2021,101,20,13,95,229
+milpitas,2022,29,70,55,114,268
+milpitas,2023,13,4,15,32,64
+milpitas,2024,19,17,8,63,107
+milpitas,2025,27,4,36,172,239
+monte sereno,2018,8,0,0,0,8
+monte sereno,2019,14,0,0,12,26
+monte sereno,2020,9,0,0,38,47
+monte sereno,2021,6,8,0,3,17
+monte sereno,2022,7,5,5,9,26
+monte sereno,2023,7,3,2,11,23
+monte sereno,2024,8,3,1,7,19
+monte sereno,2025,10,0,0,7,17
+moraga,2018,0,0,1,34,35
+moraga,2019,0,0,1,5,6
+moraga,2020,0,0,4,10,14
+moraga,2021,0,1,1,1,3
+moraga,2022,0,2,3,0,5
+moraga,2023,0,4,2,0,6
+moraga,2024,0,3,1,0,4
+moraga,2025,0,4,6,0,10
+morgan hill,2018,39,24,263,193,519
+morgan hill,2019,0,11,14,142,167
+morgan hill,2020,0,1,5,38,44
+morgan hill,2021,6,2,14,82,104
+morgan hill,2022,225,253,351,104,933
+morgan hill,2023,0,0,32,102,134
+morgan hill,2024,0,0,23,174,197
+morgan hill,2025,65,0,32,232,329
+mountain view,2018,0,10,0,320,330
+mountain view,2019,61,0,0,233,294
+mountain view,2020,42,45,18,1384,1489
+mountain view,2021,0,0,0,51,51
+mountain view,2022,10,46,118,1052,1226
+mountain view,2023,159,112,165,1918,2354
+mountain view,2024,185,17,18,81,301
+mountain view,2025,26,26,26,310,388
+napa,2018,53,15,0,523,591
+napa,2019,0,27,41,92,160
+napa,2020,30,45,20,44,139
+napa,2021,13,34,43,121,211
+napa,2022,64,38,24,342,468
+napa,2023,0,27,34,80,141
+napa,2024,0,21,41,123,185
+napa,2025,15,19,27,103,164
+newark,2018,0,0,0,460,460
+newark,2019,0,0,0,279,279
+newark,2020,0,0,0,284,284
+newark,2021,0,0,0,411,411
+newark,2022,124,0,0,205,329
+newark,2023,0,0,0,91,91
+newark,2024,107,9,9,80,205
+newark,2025,10,10,10,109,139
+novato,2018,9,6,39,8,62
+novato,2019,12,4,5,103,124
+novato,2020,10,8,0,12,30
+novato,2021,11,20,4,119,154
+novato,2022,10,18,3,57,88
+novato,2023,58,9,6,12,85
+novato,2024,92,16,13,15,136
+novato,2025,68,21,18,18,125
+oakland,2018,204,85,48,4280,4617
+oakland,2019,120,307,9,1727,2163
+oakland,2020,193,40,9,865,1107
+oakland,2021,191,125,1,1350,1667
+oakland,2022,393,166,78,1272,1909
+oakland,2023,177,116,144,359,796
+oakland,2024,550,326,109,223,1208
+oakland,2025,376,169,57,110,712
+oakley,2018,0,0,0,192,192
+oakley,2019,0,0,0,262,262
+oakley,2020,0,104,25,338,467
+oakley,2021,0,2,0,488,490
+oakley,2022,0,16,161,548,725
+oakley,2023,0,0,6,92,98
+oakley,2024,3,3,8,112,126
+oakley,2025,0,0,9,83,92
+orinda,2018,0,0,4,51,55
+orinda,2019,0,0,7,33,40
+orinda,2020,0,0,9,44,53
+orinda,2021,0,0,21,35,56
+orinda,2022,0,0,15,6,21
+orinda,2023,0,0,28,6,34
+orinda,2024,0,0,0,0,0
+orinda,2025,0,0,18,9,27
+pacifica,2018,0,0,0,26,26
+pacifica,2019,0,0,0,27,27
+pacifica,2020,0,0,0,43,43
+pacifica,2021,0,22,2,82,106
+pacifica,2022,0,44,28,88,160
+pacifica,2023,30,48,41,42,161
+pacifica,2024,24,16,32,39,111
+pacifica,2025,6,7,7,24,44
+palo alto,2018,0,0,0,54,54
+palo alto,2019,0,2,0,105,107
+palo alto,2020,58,2,0,214,274
+palo alto,2021,58,2,0,245,305
+palo alto,2022,0,0,1,127,128
+palo alto,2023,58,39,71,280,448
+palo alto,2024,57,8,1,132,198
+palo alto,2025,0,0,9,165,174
+petaluma,2018,0,4,31,77,112
+petaluma,2019,0,4,42,117,163
+petaluma,2020,27,29,22,187,265
+petaluma,2021,25,0,29,293,347
+petaluma,2022,72,28,27,124,251
+petaluma,2023,32,32,11,176,251
+petaluma,2024,4,6,6,11,27
+petaluma,2025,89,94,8,39,230
+piedmont,2018,0,4,2,8,14
+piedmont,2019,2,2,4,3,11
+piedmont,2020,6,7,6,5,24
+piedmont,2021,6,5,4,8,23
+piedmont,2022,13,23,10,21,67
+piedmont,2023,17,34,14,22,87
+piedmont,2024,23,41,23,25,112
+pinole,2018,0,0,0,2,2
+pinole,2019,0,0,0,7,7
+pinole,2020,0,0,0,13,13
+pinole,2021,0,0,0,4,4
+pinole,2022,7,135,37,8,187
+pinole,2023,26,7,1,13,47
+pinole,2024,0,0,0,9,9
+pinole,2025,36,147,44,33,260
+pittsburg,2018,23,208,48,68,347
+pittsburg,2019,23,217,20,101,361
+pittsburg,2020,6,100,3,99,208
+pittsburg,2021,3,0,3,211,217
+pittsburg,2022,0,20,16,79,115
+pittsburg,2023,0,10,137,1,148
+pittsburg,2024,0,24,34,15,73
+pleasant hill,2018,0,0,9,39,48
+pleasant hill,2019,0,19,19,46,84
+pleasant hill,2020,0,0,1,15,16
+pleasant hill,2021,0,0,20,16,36
+pleasant hill,2022,0,2,26,49,77
+pleasant hill,2023,9,2,48,222,281
+pleasant hill,2024,5,8,13,28,54
+pleasant hill,2025,17,10,21,183,231
+pleasanton,2018,25,28,7,38,98
+pleasanton,2019,23,6,11,87,127
+pleasanton,2020,0,0,9,36,45
+pleasanton,2021,0,0,17,24,41
+pleasanton,2022,0,0,14,59,73
+pleasanton,2023,3,3,3,9,18
+pleasanton,2024,23,30,37,57,147
+pleasanton,2025,28,49,57,329,463
+portola valley,2018,4,1,1,2,8
+portola valley,2019,4,1,1,4,10
+portola valley,2020,1,1,6,1,9
+portola valley,2021,7,1,2,6,16
+portola valley,2022,4,0,1,2,7
+portola valley,2023,4,12,2,1,19
+portola valley,2024,3,3,3,7,16
+portola valley,2025,3,4,3,1,11
+redwood city,2018,0,58,0,348,406
+redwood city,2019,124,52,0,292,468
+redwood city,2020,158,141,0,23,322
+redwood city,2021,0,81,0,1,82
+redwood city,2022,56,116,0,9,181
+redwood city,2023,24,23,23,416,486
+redwood city,2024,51,110,14,13,188
+redwood city,2025,135,99,39,216,489
+richmond,2018,187,81,0,209,477
+richmond,2019,0,0,0,91,91
+richmond,2020,0,0,0,114,114
+richmond,2021,165,0,0,99,264
+richmond,2022,0,0,0,109,109
+richmond,2023,0,0,2,147,149
+richmond,2024,14,10,22,97,143
+richmond,2025,62,10,23,196,291
+rio vista,2018,0,0,3,6,9
+rio vista,2019,0,0,0,216,216
+rio vista,2020,0,0,0,41,41
+rio vista,2021,0,0,0,38,38
+rio vista,2022,0,0,0,145,145
+rio vista,2023,0,0,0,43,43
+rio vista,2024,0,0,0,127,127
+rio vista,2025,0,0,0,49,49
+rohnert park,2018,109,109,4,408,630
+rohnert park,2019,7,0,0,306,313
+rohnert park,2020,18,25,13,176,232
+rohnert park,2021,0,2,5,226,233
+rohnert park,2022,63,5,14,232,314
+rohnert park,2023,2,5,2,76,85
+rohnert park,2024,4,4,1,145,154
+rohnert park,2025,3,3,1,33,40
+ross,2018,0,0,1,0,1
+ross,2019,5,2,2,2,11
+ross,2020,5,4,2,2,13
+ross,2021,8,4,2,2,16
+ross,2022,8,4,2,9,23
+ross,2023,2,2,0,0,4
+ross,2024,6,7,6,4,23
+ross,2025,5,6,7,3,21
+saint helena,2018,0,0,0,10,10
+saint helena,2019,2,6,0,4,12
+saint helena,2020,0,0,0,17,17
+saint helena,2021,0,0,0,19,19
+saint helena,2022,0,0,0,17,17
+saint helena,2023,0,0,0,9,9
+saint helena,2024,1,1,1,12,15
+saint helena,2025,5,10,5,5,25
+san anselmo,2018,2,3,7,25,37
+san anselmo,2019,0,0,7,3,10
+san anselmo,2020,3,3,5,1,12
+san anselmo,2021,3,9,26,5,43
+san anselmo,2022,8,9,11,0,28
+san anselmo,2023,0,20,1,2,23
+san anselmo,2024,2,12,1,5,20
+san anselmo,2025,5,5,5,4,19
+san bruno,2018,0,6,0,0,6
+san bruno,2019,0,45,5,85,135
+san bruno,2020,0,9,0,39,48
+san bruno,2021,21,23,21,18,83
+san bruno,2022,14,14,14,5,47
+san bruno,2023,37,114,10,5,166
+san bruno,2024,8,8,9,3,28
+san bruno,2025,22,698,34,30,784
+san carlos,2018,0,0,0,32,32
+san carlos,2019,0,1,2,52,55
+san carlos,2020,23,0,0,43,66
+san carlos,2021,0,0,1,66,67
+san carlos,2022,0,0,0,38,38
+san carlos,2023,0,0,0,32,32
+san carlos,2024,0,0,0,38,38
+san carlos,2025,17,17,28,20,82
+san francisco,2018,440,552,401,3285,4678
+san francisco,2019,513,393,609,3217,4732
+san francisco,2020,707,339,404,1709,3159
+san francisco,2021,248,338,547,1088,2221
+san francisco,2022,397,381,498,1576,2852
+san francisco,2023,514,373,418,1750,3055
+san francisco,2024,409,275,277,111,1072
+san francisco,2025,820,570,226,343,1959
+san jose,2018,146,0,1300,1527,2973
+san jose,2019,134,0,719,1572,2425
+san jose,2020,396,105,162,717,1380
+san jose,2021,546,57,125,943,1671
+san jose,2022,211,227,26,1328,1792
+san jose,2023,593,330,907,1274,3104
+san jose,2024,866,1071,167,195,2299
+san jose,2025,725,544,1110,250,2629
+san leandro,2018,0,0,0,7,7
+san leandro,2019,0,0,0,33,33
+san leandro,2020,44,18,0,26,88
+san leandro,2021,0,0,0,53,53
+san leandro,2022,0,2,14,260,276
+san leandro,2023,18,18,18,8,62
+san leandro,2024,13,14,15,21,63
+san leandro,2025,15,15,15,7,52
+san mateo,2018,7,0,0,83,90
+san mateo,2019,67,25,0,294,386
+san mateo,2020,3,1,0,92,96
+san mateo,2021,0,38,39,239,316
+san mateo,2022,132,150,58,260,600
+san mateo,2023,25,24,25,24,98
+san mateo,2024,20,20,20,110,170
+san mateo,2025,57,49,53,235,394
+san pablo,2018,0,2,0,2,4
+san pablo,2019,0,0,6,1,7
+san pablo,2020,0,3,12,4,19
+san pablo,2021,0,5,14,6,25
+san pablo,2022,54,2,7,2,65
+san pablo,2023,0,53,14,10,77
+san pablo,2024,0,2,28,12,42
+san pablo,2025,0,4,15,4,23
+san rafael,2018,1,25,1,14,41
+san rafael,2019,0,6,0,22,28
+san rafael,2020,5,10,0,75,90
+san rafael,2021,32,12,0,22,66
+san rafael,2022,30,62,0,55,147
+san rafael,2023,40,13,0,59,112
+san rafael,2024,0,12,0,26,38
+san rafael,2025,9,8,8,8,33
+san ramon,2018,0,0,0,275,275
+san ramon,2019,6,6,0,240,252
+san ramon,2020,5,5,0,96,106
+san ramon,2021,4,2,185,98,289
+san ramon,2022,26,96,0,142,264
+san ramon,2023,9,2,5,110,126
+san ramon,2024,10,5,8,104,127
+san ramon,2025,3,2,2,84,91
+santa clara,2018,0,0,5,1162,1167
+santa clara,2019,130,15,8,626,779
+santa clara,2020,37,163,51,362,613
+santa clara,2021,121,67,20,236,444
+santa clara,2022,185,256,88,2326,2855
+santa clara,2023,58,193,61,603,915
+santa clara,2024,21,19,24,41,105
+santa clara,2025,31,29,52,419,531
+santa rosa,2018,42,13,78,325,458
+santa rosa,2019,6,12,50,379,447
+santa rosa,2020,83,49,26,471,629
+santa rosa,2021,211,190,70,933,1404
+santa rosa,2022,206,202,11,738,1157
+santa rosa,2023,185,198,73,1252,1708
+santa rosa,2024,0,0,0,297,297
+santa rosa,2025,77,60,16,708,861
+saratoga,2018,0,14,0,32,46
+saratoga,2019,0,17,8,3,28
+saratoga,2020,0,12,29,3,44
+saratoga,2021,0,8,58,5,71
+saratoga,2022,3,2,48,79,132
+saratoga,2023,24,25,23,53,125
+saratoga,2024,23,23,22,48,116
+saratoga,2025,36,43,36,99,214
+sausalito,2018,0,0,1,2,3
+sausalito,2019,2,3,1,0,6
+sausalito,2020,3,5,4,2,14
+sausalito,2021,0,1,8,0,9
+sausalito,2022,4,8,5,3,20
+sausalito,2023,2,3,4,0,9
+sausalito,2024,2,5,5,3,15
+sausalito,2025,2,2,2,2,8
+sebastopol,2018,3,4,5,1,13
+sebastopol,2019,1,3,0,1,5
+sebastopol,2020,0,2,2,23,27
+sebastopol,2021,33,0,0,7,40
+sebastopol,2022,0,0,0,18,18
+sebastopol,2023,34,13,0,16,63
+sebastopol,2024,44,13,0,16,73
+sebastopol,2025,26,5,5,35,71
+sonoma,2018,0,7,10,7,24
+sonoma,2019,24,28,16,37,105
+sonoma,2020,24,29,14,68,135
+sonoma,2021,40,11,29,55,135
+sonoma,2022,0,0,18,8,26
+sonoma,2023,0,1,4,5,10
+sonoma,2024,0,1,13,15,29
+sonoma,2025,1,1,1,5,8
+south san francisco,2018,0,0,5,162,167
+south san francisco,2019,0,1,25,269,295
+south san francisco,2020,0,1,72,429,502
+south san francisco,2021,9,11,29,99,148
+south san francisco,2022,58,55,17,206,336
+south san francisco,2023,61,93,23,17,194
+south san francisco,2024,14,14,18,16,62
+south san francisco,2025,42,41,41,469,593
+suisun city,2018,0,0,0,5,5
+suisun city,2019,0,0,0,0,0
+suisun city,2020,0,0,0,1,1
+suisun city,2021,0,0,0,77,77
+suisun city,2022,44,115,0,15,174
+suisun city,2023,0,0,0,195,195
+suisun city,2024,2,1,3,6,12
+suisun city,2025,100,5,112,5,222
+sunnyvale,2018,0,0,63,207,270
+sunnyvale,2019,25,0,72,609,706
+sunnyvale,2020,9,0,73,334,416
+sunnyvale,2021,113,50,79,1221,1463
+sunnyvale,2022,19,49,47,868,983
+sunnyvale,2023,134,61,74,332,601
+sunnyvale,2024,4,22,58,194,278
+sunnyvale,2025,32,32,41,111,216
+tiburon,2018,0,1,0,4,5
+tiburon,2019,0,0,0,5,5
+tiburon,2021,0,0,0,8,8
+tiburon,2022,0,0,0,0,0
+tiburon,2023,0,0,0,11,11
+tiburon,2024,6,7,7,7,27
+tiburon,2025,8,7,7,7,29
+uninc::alameda,2018,0,11,0,108,119
+uninc::alameda,2019,0,26,0,63,89
+uninc::alameda,2020,0,44,0,19,63
+uninc::alameda,2021,0,47,0,28,75
+uninc::alameda,2022,25,26,24,31,106
+uninc::alameda,2023,121,130,48,77,376
+uninc::alameda,2024,42,42,39,132,255
+uninc::alameda,2025,110,112,38,146,406
+uninc::contra costa,2018,63,171,1,434,669
+uninc::contra costa,2019,0,1,4,214,219
+uninc::contra costa,2020,0,0,1,137,138
+uninc::contra costa,2021,36,33,36,422,527
+uninc::contra costa,2022,27,24,142,545,738
+uninc::contra costa,2023,53,85,235,598,971
+uninc::contra costa,2024,71,102,208,401,782
+uninc::contra costa,2025,75,120,72,213,480
+uninc::marin,2018,8,0,3,36,47
+uninc::marin,2019,7,8,9,39,63
+uninc::marin,2020,6,14,7,27,54
+uninc::marin,2021,10,5,6,39,60
+uninc::marin,2022,15,19,7,13,54
+uninc::marin,2023,46,69,23,49,187
+uninc::marin,2024,22,23,21,41,107
+uninc::marin,2025,12,21,18,127,178
+uninc::napa,2018,3,0,6,22,31
+uninc::napa,2019,1,2,3,17,23
+uninc::napa,2020,0,3,5,10,18
+uninc::napa,2021,6,4,3,13,26
+uninc::napa,2022,4,4,5,11,24
+uninc::napa,2023,8,5,6,19,38
+uninc::napa,2024,7,3,4,25,39
+uninc::napa,2025,5,10,6,37,58
+uninc::san mateo,2018,0,21,7,78,106
+uninc::san mateo,2019,33,45,34,163,275
+uninc::san mateo,2020,33,35,33,62,163
+uninc::san mateo,2021,13,17,14,97,141
+uninc::san mateo,2022,26,20,20,35,101
+uninc::san mateo,2023,108,108,18,42,276
+uninc::san mateo,2024,0,12,41,51,104
+uninc::san mateo,2025,43,50,20,46,159
+uninc::santa clara,2018,22,0,65,0,87
+uninc::santa clara,2019,24,0,2532,41,2597
+uninc::santa clara,2020,10,0,0,85,95
+uninc::santa clara,2021,1,0,0,111,112
+uninc::santa clara,2022,0,0,0,124,124
+uninc::santa clara,2023,0,0,0,234,234
+uninc::santa clara,2024,0,0,0,97,97
+uninc::santa clara,2025,0,0,0,121,121
+uninc::solano,2018,1,17,3,13,34
+uninc::solano,2019,1,18,5,6,30
+uninc::solano,2020,0,10,5,11,26
+uninc::solano,2021,0,28,11,56,95
+uninc::solano,2022,1,23,11,41,76
+uninc::solano,2023,0,11,5,20,36
+uninc::solano,2024,4,4,8,19,35
+uninc::solano,2025,2,12,11,23,48
+uninc::sonoma,2018,45,147,109,212,513
+uninc::sonoma,2019,0,101,141,828,1070
+uninc::sonoma,2020,0,45,68,148,261
+uninc::sonoma,2021,0,2,96,104,202
+uninc::sonoma,2022,66,35,213,505,819
+uninc::sonoma,2023,65,108,121,508,802
+uninc::sonoma,2024,172,82,97,373,724
+uninc::sonoma,2025,89,49,33,139,310
+union city,2018,0,0,8,77,85
+union city,2019,0,0,12,8,20
+union city,2020,0,0,7,0,7
+union city,2021,0,0,23,0,23
+union city,2022,0,0,31,1,32
+union city,2023,7,7,7,3,24
+union city,2024,10,10,10,19,49
+union city,2025,58,65,16,47,186
+vacaville,2018,14,24,1,205,244
+vacaville,2019,0,3,0,378,381
+vacaville,2020,0,10,32,629,671
+vacaville,2021,27,48,0,540,615
+vacaville,2022,0,6,14,357,377
+vacaville,2023,0,0,0,483,483
+vacaville,2024,0,0,0,647,647
+vacaville,2025,0,0,45,447,492
+vallejo,2018,0,0,0,55,55
+vallejo,2019,0,0,0,64,64
+vallejo,2020,0,0,0,41,41
+vallejo,2021,0,0,0,37,37
+vallejo,2022,74,1,0,168,243
+vallejo,2023,10,12,9,94,125
+vallejo,2024,10,14,13,44,81
+vallejo,2025,7,33,10,143,193
+walnut creek,2018,43,9,16,94,162
+walnut creek,2019,0,0,9,368,377
+walnut creek,2020,11,3,11,157,182
+walnut creek,2021,3,4,17,106,130
+walnut creek,2022,0,11,12,9,32
+walnut creek,2023,2,11,10,3,26
+walnut creek,2024,3,20,22,14,59
+walnut creek,2025,71,32,12,31,146
+windsor,2018,0,0,0,18,18
+windsor,2019,30,29,1,23,83
+windsor,2020,0,0,0,5,5
+windsor,2021,24,27,1,16,68
+windsor,2022,0,133,0,26,159
+windsor,2023,3,174,5,40,222
+windsor,2024,5,5,7,69,86
+windsor,2025,4,48,8,99,159
+woodside,2018,11,2,1,7,21
+woodside,2019,11,2,2,12,27
+woodside,2020,0,7,2,8,17
+woodside,2021,6,3,9,9,27
+woodside,2022,4,4,4,11,23
+woodside,2023,7,6,6,14,33
+woodside,2024,11,7,7,10,35
+woodside,2025,7,6,6,13,32
+yountville,2018,0,0,3,0,3
+yountville,2019,0,0,0,0,0
+yountville,2020,0,0,1,0,1
+yountville,2021,0,0,0,1,1
+yountville,2022,0,0,0,2,2
+yountville,2023,0,0,0,1,1
+yountville,2024,1,2,2,1,6
+yountville,2025,0,1,4,0,5
